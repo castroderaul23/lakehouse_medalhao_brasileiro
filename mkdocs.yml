@@ -1,0 +1,9 @@
+site_name: Trabalho 3 - Lakehouse Databricks (Medalhão)
+nav:
+  - Início: index.md
+  - Arquitetura Medalhão: arquitetura.md
+  - Pipeline (Notebooks): pipeline.md
+  - Star Schema (Gold): star_schema.md
+  - Job (Execução): job.md
+theme:
+  name: mkdocs
